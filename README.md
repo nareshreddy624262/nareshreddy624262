@@ -4,7 +4,10 @@
 # Hello, I'm Naresh Reddy 👋
 
     # --About Me
-	Hi there! I'm Naresh Reddy, currently i am studying B.tech final year in department of Artificial Intillegence and Data Science. at JCT college of engineering and technology in Coimbatore. I’m passionat about  Data Analysis, Data Science and Machine Learning.   I enjoy research in data science.
+	Hi there! I'm Naresh Reddy, currently i am studying B.tech final year in department of Artificial Intillegence and Data Science. 
+        at JCT college of engineering and technology in Coimbatore. 
+	I’m passionat about  Data Analysis, Data Science and Machine Learning.   
+        I enjoy research in data science.
 
   
 - 👋 Hi, I’m Naresh Reddy
