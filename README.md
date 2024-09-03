@@ -23,10 +23,10 @@
 
 # Skills & Technologies :
 
-- Languages: [Python,]
-- Frameworks/Libraries: [Numpy,Pandas, Matplotlib, Seaborn, Streamlit, Pytorch,  Django,  TensorFlow]
-- Tools: [e.g., Git, Github, VS Code, jupyter noatbook,Excel,powerbi,tablue,..etc_]
-- Databases: [e.g., MySQL]
+- Languages: Python,
+- Frameworks/Libraries: Numpy,Pandas, Matplotlib, Seaborn, Streamlit, Pytorch,  Django,  TensorFlow
+- Tools:  Git, Github, VS Code, jupyter noatbook,Excel,powerbi,tablue,..etc_
+- Databases:  MySQL
 
 # Projects
 
