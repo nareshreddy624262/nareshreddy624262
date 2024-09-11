@@ -38,7 +38,7 @@
      and which continent produce higest suger and its explain which country or continent produce higest suger based on land
  
   
-# Project Name : Blacek Friday Sales Analysis
+# Project Name : Black Friday Sales Analysis
 
 - About Project :
     this balck friday analysis explain sales about a particular day that is black friday .
